@@ -36,3 +36,5 @@ for (var iterator of numeros) {
 }
 
 //Estruturas de map e weakmap
+
+
